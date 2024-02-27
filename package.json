@@ -1,9 +1,8 @@
 {
-  "name": "hexlet_shopping_cart",
+  "name": "hexlet_calculator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "devDependencies": {
     "jest": "^29.7.0"
   },
@@ -11,5 +10,8 @@
     "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
